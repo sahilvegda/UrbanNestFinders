@@ -1,0 +1,32 @@
+
+UrbanNestFinders - Real Estate Website Documentation
+Introduction
+UrbanNestFinders is a comprehensive real estate website designed to facilitate the buying, selling, and renting of properties. The website is crafted with a user-friendly interface, allowing seamless navigation through its various features. This documentation provides insights into the technologies used, key design decisions, and instructions for running or deploying the website.
+
+Technologies Used
+HTML: For creating the structure and content of web pages.
+CSS: For styling and enhancing the visual appeal of the website.
+JavaScript: Used to implement dynamic and interactive elements on the web pages.
+Bootstrap: Employed for responsive design and to streamline the development process.
+Website Structure
+Home Page
+The landing page, featuring the website name "UrbanNestFinders," serves as the gateway to other sections. It provides easy navigation to the Services, About Us, and Contact Us pages.
+
+Services Page
+Users can choose from three options: Buy, Sell, or Rent properties. Upon selecting an option, they are directed to dedicated pages listing properties related to their choice.
+
+Contact Us Page
+This page hosts a user-friendly contact form, allowing users to reach out effortlessly. The form includes fields for name, mobile number, email address, city, and state. Additionally, users can choose from three radio buttons to specify their inquiry type: Buy, Sell, or Rent. The form also supports file attachments (up to 4 files, 5MB each), ensuring users can easily share relevant documents.
+
+About Us Page
+The About Us page provides a detailed description of UrbanNestFinders, offering users insights into the company's mission, values, and commitment to providing exceptional real estate services.
+
+Key Design Decisions
+Navigation Bar: A consistent navigation bar is placed at the top of each page, allowing users to easily switch between sections.
+
+User-Friendly Forms: The contact form is designed for simplicity and clarity, ensuring users can effortlessly reach out with their inquiries.
+
+File Upload Feature: The website supports file attachments in the contact form, allowing users to share relevant documents.
+
+Instructions for Running/Deploying
+To run or deploy the UrbanNestFinders website, simply host the HTML, CSS, and JavaScript files on a web server. Ensure that Bootstrap is included via CDN or locally hosted files for proper styling and responsiveness.
